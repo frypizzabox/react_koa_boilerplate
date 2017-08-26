@@ -20,8 +20,8 @@ const Wrapper = styled.section`
 ReactDOM.render(
 	<Wrapper>
 		<Title>
-			<Message />
+			<Message/>
 		</Title>
 	</Wrapper>,
-  document.getElementById('root')
+  document.getElementById('app')
 );
